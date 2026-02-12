@@ -45,7 +45,7 @@
       <h3>📊 <b>Data Analysis:</b> Using Python & Pandas for Data Analysis and Visualization.</h3>
     </li>
     <li>
-      <h3>🏆 <b>Competitive Programming:</b> Aiming to AC all Div.3 contests on <b>Codeforces</b>.</h3>
+      <h3>🏆 <b>Competitive Programming:</b> Aiming to AC all Div.2 contests on <b>Codeforces</b>.</h3>
     </li>
   </ul>
 </div>
