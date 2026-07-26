@@ -14,18 +14,22 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HUGGING%20FACE-F3D122?style=for-the-badge&logo=huggingface&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/HUGGING%20FACE-F3D122?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 
 <br>
 
-<h2 align="left"> &nbsp;&nbsp; 🛠️ Software Engineering & Competitive Programming </h2>
+<h2 align="left"> &nbsp;&nbsp; 🛠️ Software Engineering & Linux </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-%230A84FF?style=for-the-badge&logo=cachyos&logoColor=white">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query" />
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <div align="center">
@@ -43,9 +47,6 @@
     </li>
     <li>
       <h3>📊 <b>Data Analysis:</b> Using Python & Pandas for Data Analysis and Visualization.</h3>
-    </li>
-    <li>
-      <h3>🏆 <b>Competitive Programming:</b> Aiming to AC all Div.2 contests on <b>Codeforces</b>.</h3>
     </li>
   </ul>
 </div>
