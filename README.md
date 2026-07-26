@@ -36,20 +36,6 @@
 
 ---
 
-<div align="left">
-  <h2>🔭 What I'm Working</h2>
-  <ul>
-    <li>
-      <h3>🧠 <b>Basic AI Research:</b> Discovering Deep Learning & Reproducing Python code.</h3>
-    </li>
-    <li>
-      <h3>💻 <b>Vietnamese Input Editor:</b> A robust, rule-based Vietnamese typing engine focusing on performance and memory efficiency (C++).</h3>
-    </li>
-    <li>
-      <h3>📊 <b>Data Analysis:</b> Using Python & Pandas for Data Analysis and Visualization.</h3>
-    </li>
-  </ul>
-</div>
 
 ---
 
