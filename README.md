@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/HUGGING%20FACE-F3D122?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 <br>
